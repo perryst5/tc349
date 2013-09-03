@@ -1,7 +1,0 @@
-	Jason Santa Maria's site at first glance is a blog.  The website has a very clean look about it.  I like the minimalist setup and color scheme. (Red/Black/White always looks classy.)  The biggest drawback that I see is the lack of Jason.  Besides his name and logo, we don't get a glimpse of who he really is unless we search for him.
-
-	Upon scrolling to the bottom of the page, we find my absolute favorite part of the site.  Jason's footer is clean and easily readable.  This is where we finally see the face of Jason and find out what he does for a living. I would've like to had seen that immediately upon loading the page, but it looks very nice sitting in the footer as he currently has it.
-
-	Back at the top of the page, the navigation bar follows the minimalist style, but is easily understandable.  The current page is shown by a small red bar above the title, and a darker font.  We can easily navigate the sit from the top of the page.  In terms of CRAP principles, I find the alignment to be the key player.  The site's contrast and cleanliness is the most apparent, but the alignment of content is the unsung hero of Jason's site.  
-
-	Lastly, the page is set up for mobile devices.  When making the window skinny, the page shifts to account for different interfaces.  This dynamic aspect shows that Jason is keeping his site up to date with the latest technology.
