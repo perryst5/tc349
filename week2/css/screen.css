@@ -1,0 +1,11 @@
+h1	{
+	font-family: Helvetica;
+	color: #0066FF;
+	font-size: 1.2em;
+	border-bottom: solid 1px #777;
+	display: inline;
+}
+
+h1 a	{
+	text-decoration: none;
+}
