@@ -1,0 +1,42 @@
+body	{
+	background: #014;
+	margin: 0;
+}
+
+h1, h2, h3	{
+	margin: 0;
+}
+
+h1	{
+	padding: 20px 15px;
+	color: #fff;
+	text-shadow: 1px 1px 2px #ddd;
+	text-align: center;
+}
+
+h2	{
+	padding: 5px;
+	color: #0C2;
+	text-align: center;
+}
+
+#digitalfootprints	{
+	float: left;
+}
+
+.container	{
+	margin: 0 auto;
+	width: 900px;
+}
+
+#prr302	{
+	float: right;
+}
+
+img	{
+	width: 400px;
+	height: 800px;
+	text-align: center;
+	border: 4px dashed #37D;
+	padding: 5px;
+}
