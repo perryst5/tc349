@@ -1,0 +1,32 @@
+body	{
+	background: #586;
+	margin: 0;
+}
+
+h1, h2, h3	{
+	margin: 0;
+}
+
+h1	{
+	padding: 20px 15px;
+	color: #fff;
+	text-shadow: 1px 1px 2px #ddd;
+	text-align: center;
+}
+
+h2	{
+	padding: 5px;
+	text-align: center;
+}
+
+.container	{
+	margin: 0 auto;
+	width: 900px;
+}
+
+img	{
+	text-align: center;
+	padding: 5px;
+	margin: 0 auto;
+	display: block;
+}
