@@ -121,16 +121,16 @@ h2	{
 	color: #fff;
 }
 
+ul	{
+	list-style-type: none;
+	margin: 0;
+}
+
 #map-location	{
-<<<<<<< HEAD
 	background: #f3f3f3;
 	background-position: center;
-	background-image: url("../img/map-grayscale.jpg")
 	height: 250px;
-=======
-	background: #e3e3e3;
-	padding: 40px;
->>>>>>> 72fbc6727cd088102aa837c6739d52c6d8fd290a
+	transition: background-image 1s;
 }
 
 nav	{
@@ -140,6 +140,18 @@ nav	{
 
 article	{
 	margin-left: 300px;
+}
+
+.gallery li	{
+	display: inline-block;
+	margin: 0 2% 2% 0;
+	border: 5px solid #fff;
+	box-shadow: 0 0 10px #ccc;
+	transition: border-color .3s;
+}
+
+.gallery li:hover	{
+	border-color: #aeccf9;
 }
 
 

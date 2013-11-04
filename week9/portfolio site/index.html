@@ -21,11 +21,7 @@
     		<h1>Steve Perry</h1>
     		<h2>Web Designer/Developer, East Lansing, MI</h2>
     	</header>
-    	<div id="map-location">
-<<<<<<< HEAD
-=======
-    		<p>Map</p>
->>>>>>> 72fbc6727cd088102aa837c6739d52c6d8fd290a
+    	<div id="map-location" data-0="background-image:url(img/map-grayscale.jpg);opacity:.5;" data-400="background-image:url(img/map-color.jpg);opacity:1;" data-700="opacity:.5;">
     	</div>
     	<nav>
     		<ul>
@@ -41,8 +37,15 @@
     			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor diam et sapien faucibus elementum. In hac habitasse platea dictumst. Donec auctor, velit sed malesuada viverra, nisl quam lacinia nisi, ac tempus quam metus nec justo. Phasellus eleifend suscipit elit, sit amet placerat urna faucibus at. Mauris sed velit lectus. Curabitur sagittis porttitor libero.</p>
     		</section>
     		<section id="portfolio">
-    			<h3>Portfolio</h3>
-    			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor diam et sapien faucibus elementum. In hac habitasse platea dictumst. Donec auctor, velit sed malesuada viverra, nisl quam lacinia nisi, ac tempus quam metus nec justo. Phasellus eleifend suscipit elit, sit amet placerat urna faucibus at. Mauris sed velit lectus. Curabitur sagittis porttitor libero.</p>
+    			<ul class="gallery">
+    				<li><img alt="porfolio" src="img/awol.png" /></li>
+    				<li><img alt="porfolio" src="img/awol.png" /></li>
+    				<li><img alt="porfolio" src="img/awol.png" /></li>
+    				<li><img alt="porfolio" src="img/awol.png" /></li>
+    				<li><img alt="porfolio" src="img/awol.png" /></li>
+					<li><img alt="porfolio" src="img/awol.png" /></li>
+					<li><img alt="porfolio" src="img/awol.png" /></li>
+    			</ul>
     		</section>
     		<section id="books">
     			<h3>My Books</h3>
@@ -53,9 +56,13 @@
     			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor diam et sapien faucibus elementum. In hac habitasse platea dictumst. Donec auctor, velit sed malesuada viverra, nisl quam lacinia nisi, ac tempus quam metus nec justo. Phasellus eleifend suscipit elit, sit amet placerat urna faucibus at. Mauris sed velit lectus. Curabitur sagittis porttitor libero.</p>
     		</section>
     	</article>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
+        <script src="js/vendor/skrollr.min.js"></script>
+        <script type="text/javascript">
+		    var s = skrollr.init();
+		</script>
     </body>
 </html>
