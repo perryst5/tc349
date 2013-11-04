@@ -122,10 +122,15 @@ h2	{
 }
 
 #map-location	{
+<<<<<<< HEAD
 	background: #f3f3f3;
 	background-position: center;
 	background-image: url("../img/map-grayscale.jpg")
 	height: 250px;
+=======
+	background: #e3e3e3;
+	padding: 40px;
+>>>>>>> 72fbc6727cd088102aa837c6739d52c6d8fd290a
 }
 
 nav	{
