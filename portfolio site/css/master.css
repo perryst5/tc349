@@ -6188,6 +6188,21 @@ td.visible-print {
   -moz-transition: .25s;
   -webkit-transition: .25s;
 }
+#preload-01 {
+  background: url(../img/facebookLight.png) no-repeat -9999px -9999px;
+}
+#preload-02 {
+  background: url(../img/twitterLight.png) no-repeat -9999px -9999px;
+}
+#preload-03 {
+  background: url(../img/linkedinLight.png) no-repeat -9999px -9999px;
+}
+#preload-04 {
+  background: url(../img/githubLight.png) no-repeat -9999px -9999px;
+}
+#preload-05 {
+  background: url(../img/mailLight.png) no-repeat -9999px -9999px;
+}
 a {
   color: #b14a0d;
   font-family: 'Ubuntu', sans-serif;
@@ -6303,6 +6318,9 @@ body header .steve-image {
 }
 body header p {
   font-size: 18px;
+}
+body .blurb p {
+  margin-bottom: 10px;
 }
 body .work .col-sm-4 figure {
   margin: 15px 0;
